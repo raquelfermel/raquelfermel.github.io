@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: Sobre mí
 subtitle: Cómo se creó esta página
 ---
 
