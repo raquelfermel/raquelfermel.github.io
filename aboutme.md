@@ -14,13 +14,18 @@ Beautiful-jekyll
 
 ### Configuraciones realizadas en la web
 
-Cambio de logo
+- Cambio de logo.
 
-Cambio de color de footer y header
+- Cambio del título de la página desde **_config.yml**.
 
-Cambio de imagen de fondo
+- Cambio de color de footer y header desde **_config.yml**.
 
-Realización de posts con Markdown
+- Cambio de imagen de fondo desde **_config.yml**
+
+- Realización del texto de los posts y la página aboutme con Markdown.
+
+- Cambio de imágenes en los posts desde la carpeta **posts**.
+
 
 
 
