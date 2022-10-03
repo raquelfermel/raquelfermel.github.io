@@ -4,7 +4,9 @@ title: Acerca de
 subtitle: Cómo se creó esta página
 ---
 
-<img src="{{ 'assets/img/puppy.gif' | relative_url }}" alt="puppy" />
+<p align="center">
+  <img src="{{ 'assets/img/puppy.gif' | relative_url }}" alt="puppy" />
+</p>
 
 ### Generador utilizado
 
