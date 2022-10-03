@@ -20,7 +20,7 @@ Beautiful-jekyll
 
 - Cambio de color de footer y header desde **_config.yml**.
 
-- Cambio de imagen de fondo desde **_config.yml**
+- Cambio de imagen de fondo desde **_config.yml**.
 
 - Realización del texto de los posts y la página aboutme con Markdown.
 
