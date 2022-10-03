@@ -4,6 +4,8 @@ title: Acerca de
 subtitle: Cómo se creó esta página
 ---
 
+<img src="{{ 'assets/img/404-puppy.gif' | relative_url }}" alt="puppy" />
+
 ### Generador utilizado
 
 Beautiful-jekyll
